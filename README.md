@@ -83,7 +83,7 @@ This plot illustrates the distribution of cross-validation scores across the tra
 Gradient Boosting delivered the most consistent and highest performance.
 
 <p align="center">
-  <img src="images/Confusion_Matrix.png" alt="Confusion Matrix" />
+  <img src="Images/Confusion_Matrix.png" alt="Confusion Matrix" />
 </p>
 
 The confusion matrix reveals the prediction accuracy for both placed and not-placed students.
