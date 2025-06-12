@@ -90,7 +90,7 @@ The confusion matrix reveals the prediction accuracy for both placed and not-pla
 It shows fewer misclassifications, confirming strong model reliability.
 
 <p align="center">
-  <img src="images/Feature_Importance_Ranking.png" alt="Feature Importance Ranking" />
+  <img src="Images/Feature_Importance_Ranking.png" alt="Feature Importance Ranking" />
 </p>
 
 This plot shows which features most influenced placement predictions.
