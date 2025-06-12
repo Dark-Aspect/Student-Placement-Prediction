@@ -1,7 +1,7 @@
 # Student Placement Prediction Project
 
 <div style="text-align: center;">
-  <img src="images/Placement.png" alt="Placement Banner" width="600"/>
+  <img src="Images/Placement.png" alt="Placement Banner" width="600"/>
 </div>
 
 ## Project Overview
@@ -55,13 +55,13 @@ The data wrangling phase ensured quality and consistency. A total of 72 duplicat
 This step explores patterns in both categorical and numerical features through visualizations. Insights showed that students with 1–2 internships, at least two projects, and those who participated in placement training or extracurricular activities had higher placement odds. Numerical variables such as CGPA, aptitude scores, soft skills, and academic marks (SSC and HSC) also revealed strong associations with placement outcomes. Students with higher scores were generally more likely to be placed, and outliers were minimal, indicating clean and consistent trends.
 
 <p align="center">
-  <img src="images/Boxplots.png" alt="Relationship Between Each Numerical Variable and Placement Status" />
+  <img src="Images/Boxplots.png" alt="Relationship Between Each Numerical Variable and Placement Status" />
 </p>
 
 This boxplot visualization compares numerical features between placed and not-placed students. It reveals that higher CGPA, aptitude, and soft skills scores are commonly associated with successful placement outcomes.
 
 <p align="center">
-  <img src="images/Correlation_Heatmap.png" alt="Correlation Heatmap" />
+  <img src="Images/Correlation_Heatmap.png" alt="Correlation Heatmap" />
 </p>
 
 The heatmap displays correlations between numerical variables in the dataset.
