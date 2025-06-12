@@ -76,7 +76,7 @@ To validate visual findings, SQL queries were used to analyze trends between pla
 In this phase, four models—Decision Tree, KNN, Random Forest, and Gradient Boosting—were trained and evaluated. After preprocessing and cross-validation, Gradient Boosting emerged as the best model with the highest accuracy (80.11%) and F1-score. It demonstrated strong balance across precision and recall for both "Placed" and "Not Placed" classes. Hyperparameter tuning further enhanced model performance. Gradient Boosting had the fewest misclassifications, making it the most robust choice for student placement prediction.
 
 <p align="center">
-  <img src="images/Cross_Validation_Distribution.png" alt="Cross Validation Score Distribution" />
+  <img src="Images/Cross_Validation_Distribution.png" alt="Cross Validation Score Distribution" />
 </p>
 
 This plot illustrates the distribution of cross-validation scores across the trained models.
